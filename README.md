@@ -6,4 +6,4 @@
 Demonstra a sequência de passos lógicos através de um fluxograma voltado para cadastro de eventos.
 
 
-![SENAI_AtividadeOnline1](https://user-images.githubusercontent.com/88597534/131731972-65a6bbab-ccb2-49e2-8b9c-daa449ae3f68.jpg)
+![SENAI_AtividadeOnline1 drawio](https://user-images.githubusercontent.com/88597534/131861633-69ce6e1c-31c1-456b-944e-44ce74449864.png)
